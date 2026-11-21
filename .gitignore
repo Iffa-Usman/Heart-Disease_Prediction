@@ -1,0 +1,13 @@
+.venv/
+venv/
+bin/
+etc/
+include/
+lib/
+share/
+pyvenv.cfg
+.streamlit/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
